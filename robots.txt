@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mrhalflife280.github.io/Halfenheim/sitemap.xml

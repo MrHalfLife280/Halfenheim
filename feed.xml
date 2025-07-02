@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Halfenheim</title>
+    <link href="https://mrhalflife280.github.io/Halfenheim/feed.xml" rel="self" />
+    <link href="https://mrhalflife280.github.io/Halfenheim" />
+    <updated>2025-07-02T10:11:42+02:00</updated>
+    <author>
+        <name>adminz</name>
+    </author>
+    <id>https://mrhalflife280.github.io/Halfenheim</id>
+
+    <entry>
+        <title>Welcome to our News site</title>
+        <author>
+            <name>adminz</name>
+        </author>
+        <link href="https://mrhalflife280.github.io/Halfenheim/welcome-to-our-news-site.html"/>
+        <id>https://mrhalflife280.github.io/Halfenheim/welcome-to-our-news-site.html</id>
+
+        <updated>2025-07-02T10:11:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    testing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>testing</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
